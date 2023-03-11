@@ -1,0 +1,10 @@
+[
+    {
+        "source": "ATL",
+        "destination": "EWR"
+    },
+    {
+        "source": "SFO",
+        "destination": "ATL"
+    }
+]

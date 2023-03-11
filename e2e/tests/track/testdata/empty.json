@@ -1,0 +1,14 @@
+[
+    {
+        "source": "SFO",
+        "destination": "GSO"
+    },
+    {
+        "source": "GSO",
+        "destination": "IND"
+    },
+    {
+        "source": "IND",
+        "destination": "SFO"
+    }
+]
